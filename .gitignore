@@ -17,10 +17,6 @@ build/
 # Models
 *.pkl
 
-# Data
-*.xml
-*.csv
-
 # IDE
 .vscode/
 .idea/
